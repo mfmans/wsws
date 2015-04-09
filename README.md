@@ -1,2 +1,7 @@
 # wsws
-a simple WebSocket server library based on WinSock written in C
+* Easy to use
+* Lightweight
+* Event driven
+* Multithreading
+* ANSI/UNICODE text supported
+* AutobahnTestsuite passed nearly
